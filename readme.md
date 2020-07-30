@@ -7,3 +7,5 @@ Update a product in response to a valid PUT request at /product/{id},
 Delete a product in response to a valid DELETE request at /product/{id},
 Fetch a product in response to a valid GET request at /product/{id}, and
 Fetch a list of products in response to a valid GET request at /products
+
+use pgx instead pg
